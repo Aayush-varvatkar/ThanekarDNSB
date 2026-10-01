@@ -1,16 +1,51 @@
-# React + Vite
+# Thanekar D. N. Subba Rao — Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive website developed for **Thanekar D. N. Subba Rao** using React. The website provides a clean interface and an easy-to-use experience across desktop and mobile devices.
 
-Currently, two official plugins are available:
+🌐 **Live Website:** https://thanekardnsb.in/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
 
-## React Compiler
+* **React.js** – Frontend development
+* **JavaScript** – Website functionality
+* **HTML5** – Page structure
+* **CSS3** – Styling and responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+* Responsive design
+* Modern and clean UI
+* Mobile-friendly layout
+* Smooth navigation
+* Reusable React components
+* Fast and user-friendly experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+The website will be available on the local development server.
+
+## 📌 Project
+
+This project was developed using **React.js** with a focus on creating a professional, responsive, and user-friendly website.
+
+---
+
+**Live Website:** https://thanekardnsb.in/
